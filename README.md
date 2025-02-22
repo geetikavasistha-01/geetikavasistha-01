@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Geetika Vasistha</h1>
+<h1 align="center">Hii! I'm Geetika Vasistha</h1>
 <h3 align="center">A passionate Data Scientist from India.</h3>
 
 - 👯 I’m looking to collaborate with people who loves to learn and have a curious mindset. **So, let's explore!**
