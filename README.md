@@ -3,7 +3,10 @@
 </p>
 
 # Hii! I am Geetika Vasistha.
-I'm currently working with LLMs, RAG pipelines, MCP, Agentic AI, Climate AI and Generative AI. I'm curious about how these technologies can come together to build intelligent, context-aware systems. Along the way, I'm gaining hands-on experience with tools like LangChain, LlamaIndex, Pinecone, and Hugging Face, while steadily building my understanding of Machine Learning, Deep Learning, and data engineering. It's an exciting learning journey, and I'm enjoying the process.<br><br>I'm *especially* interested in collaborating with **startups**, **research-driven teams**, and **early-stage companies** that are solving real-world problems using **AI, data science, and automation**. If you're working on something innovative and need someone who’s hands-on, curious, and committed—I’d love to collaborate or contribute.<br><br>Feel free to reach out if you’re building something exciting or looking for someone to join your journey in tech!<br>
+I'm currently working with LLMs, RAG pipelines, MCP, Agentic AI, Climate AI and Generative AI. I'm curious about how these technologies can come together to build intelligent, context-aware systems. Along the way, I'm gaining hands-on experience with tools like LangChain, LlamaIndex, Pinecone, and Hugging Face, while steadily building my understanding of Machine Learning, Deep Learning, and data engineering. It's an exciting learning journey, and I'm enjoying the process.<br><br>I'm *especially* interested in collaborating with **startups**, **research-driven teams**, and **early-stage companies** that are solving real-world problems using **AI, data science, and automation**. If you're working on something innovative and need someone who’s hands-on, curious, and committed—I’d love to collaborate or contribute.<br>
+<img src="https://your-gif-link.com/bottom-left.gif" width="100" style="position: absolute; bottom: 0; left: 0;"/>
+
+<br>Feel free to reach out if you’re building something exciting or looking for someone to join your journey in tech!<br>
 
 
 ## 🌐 Socials:
