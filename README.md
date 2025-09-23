@@ -17,9 +17,13 @@
 I'm passionate about the intersection of **AI, climate science, and real-world impact**. Currently diving deep into:
 
 • **LLMs & Generative AI** - Building sophisticated language models and applications
+
 • **RAG Pipelines** - Creating context-aware retrieval systems
+
 • **Model Context Protocol (MCP)** - Developing seamless AI integrations
+
 • **Climate AI** - Leveraging AI for environmental solutions
+
 • **Agentic AI** - Building autonomous, goal-oriented AI systems
 
 I'm hands-on with cutting-edge tools like **LangChain**, **LlamaIndex**, **Pinecone**, and **Hugging Face**, while continuously expanding my expertise in **Machine Learning**, **Deep Learning**, and **data engineering**.
