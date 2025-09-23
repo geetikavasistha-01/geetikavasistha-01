@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Coding GIF](https://github.com/topics/markdown?l=markdown)
+![Coding GIF](https://tenor.com/view/who-asked-gif-25956246"[1)
 
 ### AI Engineer | LLM Specialist | Climate Tech Enthusiast
 
@@ -35,9 +35,7 @@ I'm *especially* interested in collaborating with:
 **Ready to build something amazing together?** Let's connect and create the future!
 
 ---
-![Coding GIF](https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg)
 ## Connect With Me
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/geetikavasistha) 
@@ -48,7 +46,7 @@ I'm *especially* interested in collaborating with:
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geetikavasistha13@gmail.com)
 
 </div>
-
+![Coding GIF](https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg)
 ---
 
 ## Tech Arsenal
@@ -124,14 +122,6 @@ graph LR
 ---
 
 <div align="center">
-
-### Profile Views
-[![Profile Views](https://visitcount.itsvg.in/api?id=geetikavasistha-01&icon=2&color=6)](https://visitcount.itsvg.in)
-
----
-
-**"The future belongs to those who believe in the beauty of their dreams and have the courage to build them."** ✨
-
-*Let's build something extraordinary together!* 🚀
+*Let's build something extraordinary together!* 
 
 </div>
