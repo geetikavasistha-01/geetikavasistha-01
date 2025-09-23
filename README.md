@@ -18,7 +18,7 @@ I'm passionate about the intersection of **AI, climate science, and real-world i
 
 I'm actively seeking collaborations with **innovative startups**, **research-driven teams**, and **climate tech organizations** that are pushing boundaries in **AI, data science, and automation**. If you're building something impactful and need someone who's hands-on, curious, and committed, let's connect and create the future together!
 
----
+
 
 ## Connect With Me
 
@@ -32,7 +32,6 @@ I'm actively seeking collaborations with **innovative startups**, **research-dri
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geetikavasistha13@gmail.com)
 
 </div>
----
 
 
 <div align="center">
