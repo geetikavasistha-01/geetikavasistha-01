@@ -14,33 +14,9 @@
 
 ## About Me
 
-I'm passionate about the intersection of **AI, climate science, and real-world impact**. Currently diving deep into:
+I'm passionate about the intersection of **AI, climate science, and real-world impact**. I specialize in **LLMs, RAG Pipelines, Agentic AI**, and **Climate AI solutions**, working with cutting-edge tools like **LangChain**, **LlamaIndex**, **Pinecone**, and **Hugging Face**. My expertise spans **Machine Learning**, **Deep Learning**, and **data engineering**, with a focus on building intelligent, context-aware systems that solve complex problems.
 
-• **LLMs & Generative AI** - Building sophisticated language models and applications
-
-• **RAG Pipelines** - Creating context-aware retrieval systems
-
-• **Model Context Protocol (MCP)** - Developing seamless AI integrations
-
-• **Climate AI** - Leveraging AI for environmental solutions
-
-• **Agentic AI** - Building autonomous, goal-oriented AI systems
-
-I'm hands-on with cutting-edge tools like **LangChain**, **LlamaIndex**, **Pinecone**, and **Hugging Face**, while continuously expanding my expertise in **Machine Learning**, **Deep Learning**, and **data engineering**.
-
-### What I'm Looking For
-
-I'm *especially* interested in collaborating with:
-
-• **Innovative startups** pushing boundaries
-
-• **Research-driven teams** solving complex problems  
-
-• **Early-stage companies** using **AI, data science, and automation**
-
-• **Climate tech organizations** making environmental impact
-
-**Ready to build something amazing together?** Let's connect and create the future!
+I'm actively seeking collaborations with **innovative startups**, **research-driven teams**, and **climate tech organizations** that are pushing boundaries in **AI, data science, and automation**. If you're building something impactful and need someone who's hands-on, curious, and committed, let's connect and create the future together!
 
 ---
 
@@ -57,7 +33,7 @@ I'm *especially* interested in collaborating with:
 
 </div>
 ---
-## Tech Arsenal
+
 
 <div align="center">
 
@@ -65,7 +41,6 @@ I'm *especially* interested in collaborating with:
 
 </div>
 ---
-## GitHub Analytics
 
 <div align="center">
 
@@ -73,7 +48,6 @@ I'm *especially* interested in collaborating with:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=geetikavasistha-01&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=geetikavasistha-01&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=geetikavasistha-01&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-![GitHub Metrics](https://metrics.lecoq.io/geetikavasistha-01?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&commits=1&lines=1&config.timezone=Asia%2FKolkata)
 
 </div>
 
