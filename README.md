@@ -1,57 +1,22 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/geetikavasistha-01/geetikavasistha-01/main/banner.png" alt="Banner" width="100%" />
+can you enhance this markdown <p align="center">
+ https://github.com/topics/markdown?l=markdown
 </p>
 
-# 👋 Hello, I'm Geetika Vasistha
+# Hii! I am Geetika Vasistha.
+I'm currently working with LLMs, RAG pipelines, MCP, Agentic AI, Climate AI and Generative AI. I'm curious about how these technologies can come together to build intelligent, context-aware systems. Along the way, I'm gaining hands-on experience with tools like LangChain, LlamaIndex, Pinecone, and Hugging Face, while steadily building my understanding of Machine Learning, Deep Learning, and data engineering. It's an exciting learning journey, and I'm enjoying the process.<br><br>I'm *especially* interested in collaborating with **startups**, **research-driven teams**, and **early-stage companies** that are solving real-world problems using **AI, data science, and automation**. If you're working on something innovative and need someone who’s hands-on, curious, and committed—I’d love to collaborate or contribute.<br>
+<br>Feel free to reach out if you’re building something exciting or looking for someone to join your journey in tech!<br>
 
-I’m someone who’s deeply into **AI, Data Science & Automation**, especially exploring how **LLMs, RAG pipelines, Agentic AI**, and **Climate AI** can build context-aware systems.  
-Hands-on with tools like **LangChain, LlamaIndex, Pinecone, Hugging Face**, and learning more about **Machine Learning, Deep Learning, Data Engineering** every day.
 
-I love collaborating—especially with **startups, early-stage teams, or research-focused groups** solving real-world problems. If you're working on something exciting (even experimental)—let’s connect!
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/geetikavasisthampy) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@geetikavasistha13) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:geetikavasistha13@gmail.com) 
 
----
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=geetikavasistha-01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=geetikavasistha-01&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=geetikavasistha-01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🛠️ GitHub Stats & Languages
-
-Here are some highlights of my coding activity and language preferences:
-
-[![Top Languages (8)](https://github-readme-stats.vercel.app/api/top-langs/?username=geetikavasistha-01&langs_count=8)](https://github.com/geetikavasistha-01)  
-[![Top Languages (Donut)](https://github-readme-stats.vercel.app/api/top-langs/?username=geetikavasistha-01&layout=donut)](https://github.com/geetikavasistha-01)  
-[![Top Languages (No Progress Bar)](https://github-readme-stats.vercel.app/api/top-langs/?username=geetikavasistha-01&hide_progress=true)](https://github.com/geetikavasistha-01)
-
----
-
-## 📂 My Projects
-
-Here are some of the public repos I’m proud of:
-
-| Project | Description |
-|---|---|
-| **Python-Learn** | Learning resources and exercises in Python, inspired by “Code with Harry”. |
-| **Matplotlib Practice** | A collection of notebooks for visualizing data using Matplotlib. |
-| **Slot Machine Game** | A text-based slot machine project built in Python. |
-| **YouTube Video Downloader** | A simple Python script/app to download videos. |
-| **Numpy Experiments** | Jupyter notebooks practising Numpy concepts. |
 
 ---
-
-## 🔧 Tech Stack
-
-Here are some of the technologies I commonly use:
-
-**Languages & Frameworks:** Python, JavaScript, Flask, FastAPI, etc.  
-**Tools & Platforms:** Git, GitHub, Jupyter, Docker, etc.  
-**Data / ML:** NumPy, Pandas, Matplotlib, Hugging Face, etc.
-
----
-
-## 🤝 Let’s Connect
-
-- [GitHub](https://github.com/geetikavasistha-01)  
-- [LinkedIn](https://linkedin.com/in/…)  
-- [Medium / Blog](https://medium.com/@…)  
-- [Email](mailto:geetikavasistha13@gmail.com)
-
----
-
-Thanks for stopping by! 🚀  
+[![](https://visitcount.itsvg.in/api?id=geetikavasistha-01&icon=0&color=0)](https://visitcount.itsvg.in)
