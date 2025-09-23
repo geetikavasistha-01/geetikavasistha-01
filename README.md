@@ -4,7 +4,7 @@
   
 ![Coding GIF](https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6)
 
-### AI Engineer | LLM Specialist | Climate Tech Enthusiast
+### AI Engineer | LLM | RAG | Data Science | Agentic AI | Climate Tech Enthusiast
 
 *Building intelligent, context-aware systems that solve real-world problems*
 
