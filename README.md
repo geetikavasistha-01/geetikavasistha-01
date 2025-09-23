@@ -1,22 +1,166 @@
-can you enhance this markdown <p align="center">
- https://github.com/topics/markdown?l=markdown
-</p>
+# Hi there! 👋 I'm Geetika Vasistha
 
-# Hii! I am Geetika Vasistha.
-I'm currently working with LLMs, RAG pipelines, MCP, Agentic AI, Climate AI and Generative AI. I'm curious about how these technologies can come together to build intelligent, context-aware systems. Along the way, I'm gaining hands-on experience with tools like LangChain, LlamaIndex, Pinecone, and Hugging Face, while steadily building my understanding of Machine Learning, Deep Learning, and data engineering. It's an exciting learning journey, and I'm enjoying the process.<br><br>I'm *especially* interested in collaborating with **startups**, **research-driven teams**, and **early-stage companies** that are solving real-world problems using **AI, data science, and automation**. If you're working on something innovative and need someone who’s hands-on, curious, and committed—I’d love to collaborate or contribute.<br>
-<br>Feel free to reach out if you’re building something exciting or looking for someone to join your journey in tech!<br>
+<div align="center">
+  
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
+### 🚀 AI Engineer | LLM Specialist | Climate Tech Enthusiast
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/geetikavasisthampy) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@geetikavasistha13) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:geetikavasistha13@gmail.com) 
+*Building intelligent, context-aware systems that solve real-world problems*
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=geetikavasistha-01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=geetikavasistha-01&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=geetikavasistha-01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=geetikavasistha-01&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🌟 About Me
+
+I'm passionate about the intersection of **AI, climate science, and real-world impact**. Currently diving deep into:
+
+- 🤖 **LLMs & Generative AI** - Building sophisticated language models and applications
+- 🔗 **RAG Pipelines** - Creating context-aware retrieval systems
+- 🛠️ **Model Context Protocol (MCP)** - Developing seamless AI integrations
+- 🌱 **Climate AI** - Leveraging AI for environmental solutions
+- 🤝 **Agentic AI** - Building autonomous, goal-oriented AI systems
+
+I'm hands-on with cutting-edge tools like **LangChain**, **LlamaIndex**, **Pinecone**, and **Hugging Face**, while continuously expanding my expertise in **Machine Learning**, **Deep Learning**, and **data engineering**.
+
+### 🎯 What I'm Looking For
+
+I'm *especially* interested in collaborating with:
+- 🚀 **Innovative startups** pushing boundaries
+- 🔬 **Research-driven teams** solving complex problems  
+- 🌱 **Early-stage companies** using **AI, data science, and automation**
+- 🌍 **Climate tech organizations** making environmental impact
+
+**Ready to build something amazing together?** Let's connect and create the future! 🚀
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/geetikavasistha) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@geetikavasistha13)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/yourusername)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/youruserid)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://yourusername.hashnode.dev)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geetikavasistha13@gmail.com)
+
+</div>
+
+---
+
+## 💻 Tech Arsenal
+
+### 🧠 AI & Machine Learning
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
+### 🌐 Web Technologies
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+### 📱 Mobile & Desktop
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### ⚡ Backend & Frameworks
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+
+### 🎨 Design & Analytics
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### 🛠️ Tools & Environment
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+### 📈 Contribution Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=geetikavasistha-01&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+### 🔥 Contribution Streak
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=geetikavasistha-01&theme=tokyonight&hide_border=true)
+
+### 💻 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=geetikavasistha-01&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+### 🐍 GitHub Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/geetikavasistha-01/geetikavasistha-01/output/github-contribution-grid-snake-dark.svg)
+
+### 📊 Detailed GitHub Metrics
+![GitHub Metrics](https://metrics.lecoq.io/geetikavasistha-01?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&commits=1&lines=1&config.timezone=Asia%2FKolkata)
+
+### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=geetikavasistha-01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```mermaid
+graph LR
+    A[LLMs & RAG] --> B[Climate AI]
+    B --> C[Agentic Systems]
+    C --> D[Real-world Impact]
+    D --> A
+```
+
+- 🔬 Researching **multimodal AI applications** in climate science
+- 🏗️ Building **scalable RAG architectures** for enterprise solutions  
+- 🤖 Developing **autonomous AI agents** for complex problem-solving
+- 🌱 Contributing to **open-source climate tech** initiatives
+
+---
+
+## 💡 Fun Facts
+
+- 🌍 Passionate about using AI to tackle climate change
+- 📚 Always learning and experimenting with new AI frameworks
+- 🎯 Goal: Make AI accessible and beneficial for everyone
+- ☕ Powered by curiosity and good coffee
+
+---
+
+<div align="center">
+
+### 📊 Profile Views
+[![Profile Views](https://visitcount.itsvg.in/api?id=geetikavasistha-01&icon=2&color=6)](https://visitcount.itsvg.in)
+
+---
+
+**"The future belongs to those who believe in the beauty of their dreams and have the courage to build them."** ✨
+
+*Let's build something extraordinary together!* 🚀
+
+</div>
