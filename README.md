@@ -33,6 +33,7 @@ I'm actively seeking collaborations with **innovative startups**, **research-dri
 
 </div>
 
+## Tech Stack
 
 <div align="center">
 
