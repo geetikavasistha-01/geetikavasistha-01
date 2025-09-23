@@ -78,7 +78,8 @@ I'm *especially* interested in collaborating with:
 ### Contribution Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=geetikavasistha-01&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)### Contribution Streak
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=geetikavasistha-01&theme=tokyonight&hide_border=true)### Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=geetikavasistha-01&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)### Detailed GitHub Metrics
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=geetikavasistha-01&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+### Detailed GitHub Metrics
 ![GitHub Metrics](https://metrics.lecoq.io/geetikavasistha-01?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&commits=1&lines=1&config.timezone=Asia%2FKolkata)
 
 </div>
@@ -101,17 +102,6 @@ graph LR
 • Contributing to **open-source climate tech** initiatives
 
 ---
-
-## Fun Facts
-
-• Passionate about using AI to tackle climate change
-• Always learning and experimenting with new AI frameworks
-• Goal: Make AI accessible and beneficial for everyone
-• Powered by curiosity and good coffee
-
----
-
 <div align="center">
-*Let's build something extraordinary together!*
-
+Let's build something extraordinary together!
 </div>
