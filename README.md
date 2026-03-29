@@ -1,5 +1,5 @@
-<!-- Header Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Geetika%20Vasistha&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%E2%80%A2%20Agentic%20AI%20%E2%80%A2%20RAG%20%E2%80%A2%20Climate%20Tech&descAlignY=60&descSize=20&animation=twinkling"/>
+<!-- 🌈 FUNKY HEADER — neon slice type with hot pink + cyan + yellow -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,2,4,8,30&height=230&section=header&text=Geetika%20Vasistha&fontSize=62&fontColor=ffffff&fontAlignY=38&rotate=-3&desc=Data%20Science%20%E2%80%A2%20Agentic%20AI%20%E2%80%A2%20RAG%20%E2%80%A2%20Climate%20Tech&descAlignY=62&descSize=19&animation=fadeIn"/>
 
 <div align="center">
 
@@ -27,86 +27,44 @@
 
 ---
 
-<!-- About Me -->
-<img align="right" width="340" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="girl coding gif"/>
+## ✨ About Me
 
-### 💫 About Me
+<table>
+<tr>
+<td width="55%">
 
-```python
-class Geetika:
-    location    = "Modinagar, UP 🇮🇳"
-    education   = "B.E. CS – Data Science @ SRM IST Delhi NCR"
-    gpa         = "8.3 / 10 · Expected May 2027"
+### 🧬 Who am I?
 
-    specializes_in = [
-        "Agentic AI & Multi-Agent Systems",
-        "RAG Pipelines & Hybrid Vector Search",
-        "LLM Integration & Prompt Engineering",
-        "Computer Vision & MLOps",
-        "Climate Tech & Real-World AI Impact"
-    ]
+> *CS undergrad obsessed with making machines think, reason, and act — autonomously.*
 
-    tools = ["LangChain", "LangGraph", "LlamaIndex",
-             "Pinecone", "FAISS", "FastAPI", "Docker", "AWS"]
+I'm **Geetika**, a Data Science student at **SRM IST Delhi NCR** who builds things at the intersection of **AI**, **climate tech**, and **real-world impact**.
 
-    currently   = "Backend Dev Intern @ Sacred Gurukul"
-    open_to     = ["Research Collabs", "AI Startups",
-                   "Internships", "Open Source"]
-
-    fun_fact    = "Won IIT Delhi Tryst 2025 🏆 with CarbonXchange AI"
-```
-
-<br clear="right"/>
-
----
-
-<!-- GIF Banner Row -->
-<div align="center">
-
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="80"/>　
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80"/>　
-<img src="https://media.giphy.com/media/KAq5w47R9rmTuxXUOs/giphy.gif" width="80"/>　
-<img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="80"/>　
-<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="80"/>
-
-</div>
-
----
-
-## 💼 Experience
-
-<div align="center">
-
-| 🗓 Period | 💼 Role | 🏢 Company | ✨ Impact |
-|:---:|:---:|:---:|:---|
-| Jul – Dec 2025 | **AI Engineering Intern** | Havish M Consultancy | RAG platform · ⬇️50% processing time · ⬆️70% delivery |
-| Mar – Dec 2025 | **ML Engineer & Co-Founder** | Raphsons Robotics *(SRM Incubated)* | CV Anomaly Detection · ⬆️40% accuracy · 1K+ img/hr |
-| Dec 2025 – Now | **Backend Dev Intern** | Sacred Gurukul | Django REST + MongoDB · LLM Recommendation Agent |
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/geetikavasistha-01">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=geetikavasistha-01&repo=AgentOps&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=C084FC&icon_color=C084FC" />
-</a>
-<a href="https://github.com/geetikavasistha-01">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=geetikavasistha-01&repo=DocuMind&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=C084FC&icon_color=C084FC" />
-</a>
-
-</div>
+By day I'm wiring up LLMs, RAG pipelines, and agentic workflows. By night I'm probably reading a paper on vector search or winning hackathons 🏆.
 
 <br/>
 
-| 🤖 **AgentOps** | 📚 **DocuMind** | ♻️ **GreenTrack** |
-|:---:|:---:|:---:|
-| LangGraph · LlamaIndex · Pinecone · FastAPI | LlamaIndex · FAISS · Mistral 7B · Streamlit | PyTorch · ResNet · Docker · PostgreSQL |
-| Multi-agent ReAct loop + CUA browser interaction | Hybrid dense+BM25 retrieval + cross-encoder re-ranking | Transfer learning · 90% accuracy |
-| **⬇️ 60% manual research time** | **⬆️ 35% faithfulness** | **⬇️ 35% memory · ⬆️ 40% speed** |
+| 🔭 | Currently building | LLM-powered e-commerce backend @ Sacred Gurukul |
+|---|---|---|
+| 🌱 | Learning | LangGraph · CUA · Advanced RAG |
+| 💡 | Passionate about | AI that actually ships + Climate solutions |
+| 📍 | Based in | Modinagar, UP 🇮🇳 |
+| 🎯 | GPA | 8.3 / 10 · Expected May 2027 |
+| ⚡ | Fun fact | Won IIT Delhi Tryst 2025 with a carbon-trading AI 🌿 |
+
+</td>
+<td width="45%" align="center">
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="girl coding"/>
+
+<br/>
+
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80"/>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80"/>
+<img src="https://media.giphy.com/media/KAq5w47R9rmTuxXUOs/giphy.gif" width="80"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -204,7 +162,7 @@ class Geetika:
 
 [![3D Contribution Graph](https://raw.githubusercontent.com/geetikavasistha-01/geetikavasistha-01/main/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/yoshi389111/github-profile-3d-contrib)
 
-> **💡 Setup:** Add the [github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) GitHub Action. It auto-generates this 3D isometric SVG from your contribution graph on a schedule.
+> **💡 Setup:** Add the [github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) GitHub Action — it auto-generates this isometric SVG on a schedule.
 
 </div>
 
@@ -235,10 +193,14 @@ class Geetika:
 ---
 
 ## 🐍 Contribution Snake
-- name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v3.4.1
 
-> **💡 Setup:** Add the [Platane/snk](https://github.com/Platane/snk) GitHub Action. It auto-generates the snake from your contribution graph.
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/geetikavasistha-01/geetikavasistha-01/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/geetikavasistha-01/geetikavasistha-01/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/geetikavasistha-01/geetikavasistha-01/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 </div>
 
@@ -248,13 +210,7 @@ class Geetika:
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-</div>
-
----
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<br/>
 
 **💬 Let's build something impactful — AI × Climate × Real-World Problems**
 
@@ -262,4 +218,5 @@ class Geetika:
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer"/>
+<!-- 🌈 FUNKY FOOTER — egg shape in hot neon gradient -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=egg&color=gradient&customColorList=0,2,4,8,30&height=140&section=footer&reversal=true"/>
