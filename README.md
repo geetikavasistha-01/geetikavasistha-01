@@ -1,222 +1,226 @@
-<!-- 🌈 FUNKY HEADER — neon slice type with hot pink + cyan + yellow -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,2,4,8,30&height=230&section=header&text=Geetika%20Vasistha&fontSize=62&fontColor=ffffff&fontAlignY=38&rotate=-3&desc=Data%20Science%20%E2%80%A2%20Agentic%20AI%20%E2%80%A2%20RAG%20%E2%80%A2%20Climate%20Tech&descAlignY=62&descSize=19&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,4,8,30&height=200&section=header&text=Geetika%20Vasistha&fontSize=58&fontColor=ffffff&fontAlignY=45&animation=fadeIn"/>
 
 <div align="center">
 
-<!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=C084FC&center=true&vCenter=true&width=750&lines=%F0%9F%A4%96+Building+Agentic+AI+%26+RAG+Pipelines;%F0%9F%94%97+LangChain+%7C+LangGraph+%7C+LlamaIndex+%7C+Pinecone;%F0%9F%8C%BF+AI+%C3%97+Climate+Tech+Researcher;%F0%9F%9A%80+Shipping+production+ML+systems+%26+autonomous+workflows;%F0%9F%92%9C+Open+to+collabs+in+AI+%26+Climate+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1000&color=94A3B8&center=true&vCenter=true&width=600&lines=CS+%E2%86%92+Data+Science+%40+SRM+IST+Delhi+NCR;Agentic+AI+%C2%B7+RAG+Pipelines+%C2%B7+LLM+Engineering;Building+AI+that+ships%2C+not+just+demos." alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Social Badges -->
-<a href="https://linkedin.com/in/geetikavasisthampy"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/geetikavasistha-01"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://medium.com"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-<a href="https://bsky.app"><img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white"/></a>
-<a href="https://stackoverflow.com"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
-<a href="mailto:geetikavasistha13@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=flat-square&logo=linkedin&logoColor=94A3B8)](https://linkedin.com/in/geetikavasisthampy)
+[![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=flat-square&logo=github&logoColor=94A3B8)](https://github.com/geetikavasistha-01)
+[![Medium](https://img.shields.io/badge/Medium-0A0A0A?style=flat-square&logo=medium&logoColor=94A3B8)](https://medium.com)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0A0A0A?style=flat-square&logo=bluesky&logoColor=94A3B8)](https://bsky.app)
+[![Email](https://img.shields.io/badge/Email-0A0A0A?style=flat-square&logo=gmail&logoColor=94A3B8)](mailto:geetikavasistha13@gmail.com)
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=geetikavasistha-01&color=blueviolet&style=flat-square&label=Profile+Views"/>
-<img src="https://img.shields.io/github/followers/geetikavasistha-01?style=flat-square&color=C084FC&label=Followers"/>
+<img src="https://komarev.com/ghpvc/?username=geetikavasistha-01&style=flat-square&color=475569&label=views" />
 
 </div>
 
+<br/>
+
 ---
 
-## ✨ About Me
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280"/>
+
+### &nbsp;About
+
+I build systems where language models stop hallucinating and start doing things.
+
+My work sits at the intersection of **Agentic AI**, **RAG architecture**, and **climate-conscious engineering** — designing pipelines that retrieve accurately, reason reliably, and act autonomously.
+
+Currently a CS undergrad (Data Science) at SRM IST Delhi NCR, GPA 8.3 — shipping production ML systems across three internships while most peers are still reading textbooks.
+
+&nbsp;
+
+| | |
+|---|---|
+| **Currently** | Backend Dev Intern — Sacred Gurukul |
+| **Building** | LLM-powered recommendation engine + Django REST |
+| **Deep-diving** | LangGraph · Computer Use Agents · Hybrid Retrieval |
+| **Interested in** | Startups, research collabs, open-source AI |
+| **Location** | Modinagar, UP, India |
+
+<br clear="right"/>
+
+---
+
+### &nbsp;Stack
+
+**Core AI / LLM**
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3B82F6)
+![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=langchain&logoColor=3B82F6)
+![LangGraph](https://img.shields.io/badge/LangGraph-0d1117?style=flat-square&logo=python&logoColor=3B82F6)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-0d1117?style=flat-square&logo=python&logoColor=3B82F6)
+![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=flat-square&logo=openai&logoColor=3B82F6)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=flat-square&logo=huggingface&logoColor=3B82F6)
+![Mistral](https://img.shields.io/badge/Mistral_AI-0d1117?style=flat-square&logo=mistral&logoColor=3B82F6)
+![Ollama](https://img.shields.io/badge/Ollama-0d1117?style=flat-square&logo=ollama&logoColor=3B82F6)
+
+**RAG & Vector Stores**
+
+![Pinecone](https://img.shields.io/badge/Pinecone-0d1117?style=flat-square&logo=pinecone&logoColor=10B981)
+![FAISS](https://img.shields.io/badge/FAISS-0d1117?style=flat-square&logo=meta&logoColor=10B981)
+![Chroma](https://img.shields.io/badge/Chroma-0d1117?style=flat-square&logo=python&logoColor=10B981)
+![Weaviate](https://img.shields.io/badge/Weaviate-0d1117?style=flat-square&logo=weaviate&logoColor=10B981)
+![Qdrant](https://img.shields.io/badge/Qdrant-0d1117?style=flat-square&logo=qdrant&logoColor=10B981)
+
+**ML & Computer Vision**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=F59E0B)
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=F59E0B)
+![Keras](https://img.shields.io/badge/Keras-0d1117?style=flat-square&logo=keras&logoColor=F59E0B)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0d1117?style=flat-square&logo=scikit-learn&logoColor=F59E0B)
+![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=F59E0B)
+![XGBoost](https://img.shields.io/badge/XGBoost-0d1117?style=flat-square&logo=python&logoColor=F59E0B)
+
+**Backend & Data**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=EC4899)
+![Django](https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=EC4899)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=EC4899)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=EC4899)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=EC4899)
+![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?style=flat-square&logo=streamlit&logoColor=EC4899)
+![GraphQL](https://img.shields.io/badge/GraphQL-0d1117?style=flat-square&logo=graphql&logoColor=EC4899)
+
+**Infrastructure & Databases**
+
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=94A3B8)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=94A3B8)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=flat-square&logo=github-actions&logoColor=94A3B8)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=94A3B8)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=94A3B8)
+![Redis](https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=94A3B8)
+![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=flat-square&logo=supabase&logoColor=94A3B8)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=94A3B8)
+
+---
+
+### &nbsp;Featured Projects
+
+<div align="center">
 
 <table>
 <tr>
-<td width="55%">
+<td width="50%" valign="top">
 
-### 🧬 Who am I?
+**AgentOps** &nbsp;·&nbsp; [↗](https://github.com/geetikavasistha-01)
 
-> *CS undergrad obsessed with making machines think, reason, and act — autonomously.*
+Autonomous multi-agent research system with ReAct reasoning loop, long-term RAG memory over Pinecone, and CUA-style browser interaction via FastAPI streaming.
 
-I'm **Geetika**, a Data Science student at **SRM IST Delhi NCR** who builds things at the intersection of **AI**, **climate tech**, and **real-world impact**.
-
-By day I'm wiring up LLMs, RAG pipelines, and agentic workflows. By night I'm probably reading a paper on vector search or winning hackathons 🏆.
-
-<br/>
-
-| 🔭 | Currently building | LLM-powered e-commerce backend @ Sacred Gurukul |
-|---|---|---|
-| 🌱 | Learning | LangGraph · CUA · Advanced RAG |
-| 💡 | Passionate about | AI that actually ships + Climate solutions |
-| 📍 | Based in | Modinagar, UP 🇮🇳 |
-| 🎯 | GPA | 8.3 / 10 · Expected May 2027 |
-| ⚡ | Fun fact | Won IIT Delhi Tryst 2025 with a carbon-trading AI 🌿 |
+`LangGraph` `LlamaIndex` `Pinecone` `FastAPI`
 
 </td>
-<td width="45%" align="center">
+<td width="50%" valign="top">
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="girl coding"/>
+**DocuMind** &nbsp;·&nbsp; [↗](https://github.com/geetikavasistha-01)
 
-<br/>
+End-to-end RAG pipeline with hybrid dense + BM25 retrieval, cross-encoder re-ranking, and sliding-window context compression for multi-turn conversations.
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80"/>
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80"/>
-<img src="https://media.giphy.com/media/KAq5w47R9rmTuxXUOs/giphy.gif" width="80"/>
+`LlamaIndex` `FAISS` `Mistral 7B` `Streamlit`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**GreenTrack** &nbsp;·&nbsp; [↗](https://github.com/geetikavasistha-01)
+
+ResNet-based waste classification CNN achieving 90% accuracy. Quantized and pruned for production inference, containerised with automated retraining pipeline.
+
+`PyTorch` `ResNet` `Docker` `PostgreSQL`
+
+</td>
+<td width="50%" valign="top">
+
+**CarbonXchange** &nbsp;·&nbsp; [↗](https://github.com/geetikavasistha-01)
+
+AI-powered carbon trading platform. Winner at IIT Delhi Tryst 2025. Combines real-time emissions data with LLM-assisted trade reasoning.
+
+`Python` `LangChain` `FastAPI` `AWS`
 
 </td>
 </tr>
 </table>
 
----
-
-## 🧠 Tech Stack
-
-### ⚡ Agentic AI & LLMs
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-7C3AED?style=for-the-badge&logo=python&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8B5CF6?style=for-the-badge&logo=python&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![Mistral](https://img.shields.io/badge/Mistral_AI-FF7000?style=for-the-badge&logo=mistral&logoColor=white)
-
-### 🗄️ RAG & Vector Stores
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-![Chroma](https://img.shields.io/badge/Chroma-FF6900?style=for-the-badge&logo=python&logoColor=white)
-![Weaviate](https://img.shields.io/badge/Weaviate-4CAF50?style=for-the-badge&logo=weaviate&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
-
-### 🤖 ML / Deep Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=python&logoColor=white)
-
-### 📊 Data & Visualization
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-### 🚀 Backend & APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=postman&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-### ☁️ Cloud, DevOps & Tools
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
-### 🗃️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
-![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white)
-
-### 🎨 Design & Productivity
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+</div>
 
 ---
 
-## 📊 GitHub Stats
+### &nbsp;GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=geetikavasistha-01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=C084FC&icon_color=C084FC&text_color=ffffff&ring_color=C084FC"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geetikavasistha-01&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=C084FC&text_color=ffffff"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=geetikavasistha-01&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=94A3B8&icon_color=3B82F6&text_color=64748B&ring_color=3B82F6&include_all_commits=true&count_private=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geetikavasistha-01&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=94A3B8&text_color=64748B"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=geetikavasistha-01&theme=tokyonight&hide_border=true&background=0d1117&dates=C084FC&ring=C084FC&fire=FF6B6B&currStreakLabel=C084FC&sideLabels=C084FC)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=geetikavasistha-01&theme=github-dark-blue&hide_border=true&background=0d1117&dates=475569&ring=3B82F6&fire=3B82F6&currStreakLabel=94A3B8&sideLabels=475569&currStreakNum=94A3B8&sideNums=94A3B8)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=geetikavasistha-01&bg_color=0d1117&color=475569&line=3B82F6&point=94A3B8&area=true&area_color=1e3a5f&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## 🏗️ 3D Contribution Graph
+### &nbsp;Contribution Map
 
 <div align="center">
 
 [![3D Contribution Graph](https://raw.githubusercontent.com/geetikavasistha-01/geetikavasistha-01/main/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/yoshi389111/github-profile-3d-contrib)
 
-> **💡 Setup:** Add the [github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) GitHub Action — it auto-generates this isometric SVG on a schedule.
-
 </div>
-
----
-
-## 📈 Pull Request & Activity Stats
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=geetikavasistha-01&bg_color=0d1117&color=C084FC&line=7C3AED&point=C084FC&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=geetikavasistha-01&theme=tokyonight&hide_border=true"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=geetikavasistha-01&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=geetikavasistha-01&theme=tokyonight&hide_border=true"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=geetikavasistha-01&theme=tokyonight&hide_border=true&utcOffset=5.5"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/geetikavasistha-01/geetikavasistha-01/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/geetikavasistha-01/geetikavasistha-01/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/geetikavasistha-01/geetikavasistha-01/output/github-contribution-grid-snake-dark.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/geetikavasistha-01/geetikavasistha-01/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 </div>
 
 ---
 
+### &nbsp;How I Think
+
+```
+Good AI engineering is 10% model choice, 90% everything around it.
+
+I care about: retrieval quality over model size · latency as a feature ·
+evals before claims · systems that degrade gracefully · shipping > theorizing.
+
+Currently thinking about: long-horizon agent reliability · 
+context window as UX · climate data pipelines that actually update.
+```
+
+---
+
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<sub>SRM IST Delhi NCR &nbsp;·&nbsp; CS (Data Science) &nbsp;·&nbsp; GPA 8.3 &nbsp;·&nbsp; Expected May 2027</sub>
 
 <br/>
 
-**💬 Let's build something impactful — AI × Climate × Real-World Problems**
-
-*"Building intelligent, context-aware systems that solve real-world problems"*
+<sub>
+<a href="https://linkedin.com/in/geetikavasisthampy">LinkedIn</a> &nbsp;·&nbsp;
+<a href="mailto:geetikavasistha13@gmail.com">Email</a> &nbsp;·&nbsp;
+<a href="https://medium.com">Writing</a>
+</sub>
 
 </div>
 
-<!-- 🌈 FUNKY FOOTER — egg shape in hot neon gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=egg&color=gradient&customColorList=0,2,4,8,30&height=140&section=footer&reversal=true"/>
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,4,8,30&height=120&section=footer&reversal=true"/>
