@@ -7,11 +7,11 @@
 </a>
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=flat-square&logo=linkedin&logoColor=94A3B8)](https://linkedin.com/in/geetikavasisthampy)
-[![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=flat-square&logo=github&logoColor=94A3B8)](https://github.com/geetikavasistha-01)
-[![Medium](https://img.shields.io/badge/Medium-0A0A0A?style=flat-square&logo=medium&logoColor=94A3B8)](https://medium.com)
-[![Bluesky](https://img.shields.io/badge/Bluesky-0A0A0A?style=flat-square&logo=bluesky&logoColor=94A3B8)](https://bsky.app)
-[![Email](https://img.shields.io/badge/Email-0A0A0A?style=flat-square&logo=gmail&logoColor=94A3B8)](mailto:geetikavasistha13@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=94A3B8)](https://github.com/geetikavasistha-01)
+[![Medium](https://img.shields.io/badge/Medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=94A3B8)](https://medium.com/@geetikavasistha13)
+[![Hashnode](https://img.shields.io/badge/Hashnode-0A0A0A?style=for-the-badge&logo=hashnode&logoColor=94A3B8)](https://hashnode.com/@geetikavasistha)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0A0A0A?style=for-the-badge&logo=bluesky&logoColor=94A3B8)](https://bsky.app/profile/geetikavasistha.bsky.social)
+[![Email](https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=94A3B8)](mailto:geetikavasistha13@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=geetikavasistha-01&style=flat-square&color=475569&label=views" />
 
