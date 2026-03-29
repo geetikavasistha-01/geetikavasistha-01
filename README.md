@@ -153,9 +153,6 @@ AI-powered carbon trading platform. Winner at IIT Delhi Tryst 2025. Combines rea
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=geetikavasistha-01&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=94A3B8&icon_color=3B82F6&text_color=64748B&ring_color=3B82F6&include_all_commits=true&count_private=true"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geetikavasistha-01&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=94A3B8&text_color=64748B"/>
-
 </div>
 
 <div align="center">
