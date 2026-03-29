@@ -29,7 +29,7 @@ I build systems where language models stop hallucinating and start doing things.
 
 My work sits at the intersection of **Agentic AI**, **RAG architecture**, and **climate-conscious engineering** — designing pipelines that retrieve accurately, reason reliably, and act autonomously.
 
-Currently a CS undergrad (Data Science) at SRM IST Delhi NCR, GPA 8.3 — shipping production ML systems across three internships while most peers are still reading textbooks.
+Currently a CS undergrad specialising in Data Science — shipping production ML systems across three internships with more than 1 year of experience as a fresher.
 
 &nbsp;
 
