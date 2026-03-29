@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1000&color=94A3B8&center=true&vCenter=true&width=600&lines=Building+Computer+Use+Agents+%28CUA%29;Agentic+AI+%C2%B7+Multi-Agent+Systems;Reinforcement+Learning+%C2%B7+Decision+Making;Distributed+Systems+%C2%B7+Scalable+Infra;Climate+AI+%C2%B7+Real-World+Impact." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1000&color=94A3B8&center=true&vCenter=true&width=600&lines=Building+Computer+Use+Agents+%28CUA%29;Agentic+AI+%C2%B7+Multi-Agent+Systems;Reinforcement+Learning+%C2%B7+Decision+Making;Distributed+Systems+%C2%B7+Scalable+Infra;Climate+AI+%C2%B7+Real-World+Impact."/>
 </a>
 <br/> alt="Typing SVG" />
 </a>
