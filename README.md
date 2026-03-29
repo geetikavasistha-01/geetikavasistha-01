@@ -9,7 +9,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=94A3B8)](https://github.com/geetikavasistha-01)
 [![Medium](https://img.shields.io/badge/Medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=94A3B8)](https://medium.com/@geetikavasistha13)
-[![Hashnode](https://img.shields.io/badge/Hashnode-0A0A0A?style=for-the-badge&logo=hashnode&logoColor=94A3B8)](https://hashnode.com/@geetikavasistha)
+[![Hashnode](https://img.shields.io/badge/Hashnode-0A0A0A?style=for-the-badge&logo=hashnode&logoColor=94A3B8)](https://hashnode.com/@ai-for-all)
 [![Bluesky](https://img.shields.io/badge/Bluesky-0A0A0A?style=for-the-badge&logo=bluesky&logoColor=94A3B8)](https://bsky.app/profile/geetikavasistha.bsky.social)
 [![Email](https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=94A3B8)](mailto:geetikavasistha13@gmail.com)
 
@@ -39,7 +39,7 @@ Currently a CS undergrad specialising in Data Science — shipping production ML
 | **Building** | LLM-powered recommendation engine + Django REST |
 | **Deep-diving** | LangGraph · Computer Use Agents · Hybrid Retrieval |
 | **Interested in** | Startups, research collabs, open-source AI |
-| **Location** | Modinagar, UP, India |
+
 
 <br clear="right"/>
 
