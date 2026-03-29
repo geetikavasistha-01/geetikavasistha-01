@@ -177,16 +177,6 @@ AI-powered carbon trading platform. Winner at IIT Delhi Tryst 2025. Combines rea
 
 </div>
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/geetikavasistha-01/geetikavasistha-01/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/geetikavasistha-01/geetikavasistha-01/output/github-contribution-grid-snake.svg">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/geetikavasistha-01/geetikavasistha-01/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
-</div>
-
 ---
 
 ### &nbsp;How I Think
