@@ -195,8 +195,6 @@ context window as UX · climate data pipelines that actually update.
 
 <div align="center">
 
-<sub>SRM IST Delhi NCR &nbsp;·&nbsp; CS (Data Science) &nbsp;·&nbsp; GPA 8.3 &nbsp;·&nbsp; Expected May 2027</sub>
-
 <br/>
 
 <sub>
