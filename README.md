@@ -12,7 +12,7 @@
 [![Hashnode](https://img.shields.io/badge/Hashnode-0A0A0A?style=for-the-badge&logo=hashnode&logoColor=94A3B8)](https://hashnode.com/@ai-for-all)
 [![Bluesky](https://img.shields.io/badge/Bluesky-0A0A0A?style=for-the-badge&logo=bluesky&logoColor=94A3B8)](https://bsky.app/profile/geetikavasistha.bsky.social)
 [![Email](https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=94A3B8)](mailto:geetikavasistha13@gmail.com)
-[![X](https://img.shields.io/badge/X-0A0A0A?style=for-the-badge&logo=x&logoColor=94A3B8)](https://x.com/GeetikaVasistha)
+[![ X ](https://img.shields.io/badge/X-0A0A0A?style=for-the-badge&logo=x&logoColor=94A3B8)](https://x.com/GeetikaVasistha)
 
 
 <img src="https://komarev.com/ghpvc/?username=geetikavasistha-01&style=flat-square&color=475569&label=views" />
