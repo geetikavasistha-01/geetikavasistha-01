@@ -99,7 +99,7 @@ Currently a CS undergrad specialising in Data Science — shipping production ML
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=94A3B8)
 
 ---
-```
+<!--
 
 ### &nbsp;Featured Projects
 
@@ -151,7 +151,7 @@ AI-powered carbon trading platform. Winner at IIT Delhi Tryst 2025. Combines rea
 </div>
 
 ---
-```
+-->
 
 ### &nbsp;GitHub Stats
 
