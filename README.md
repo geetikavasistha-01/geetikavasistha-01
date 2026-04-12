@@ -13,6 +13,7 @@
 [![Bluesky](https://img.shields.io/badge/Bluesky-0A0A0A?style=for-the-badge&logo=bluesky&logoColor=94A3B8)](https://bsky.app/profile/geezxoeyy.bsky.social)
 [![Email](https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=94A3B8)](mailto:geetikavasistha13@gmail.com)
 [![ X ](https://img.shields.io/badge/X-0A0A0A?style=for-the-badge&logo=x&logoColor=94A3B8)](https://x.com/GeetikaVasistha)
+[![ Substack ](https://icons8.com/icons/set/substack-logo--black]([![ X ](https://img.shields.io/badge/X-0A0A0A?style=for-the-badge&logo=x&logoColor=94A3B8)]
 
 
 <img src="https://komarev.com/ghpvc/?username=geetikavasistha-01&style=flat-square&color=475569&label=views" />
