@@ -53,7 +53,7 @@ Currently a **Data Science undergrad**, building production-grade ML and backend
 
 ### &nbsp;Stack
 
-**Core AI / LLM**
+**Core AI / Agentic Systems**
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3B82F6)
 ![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=langchain&logoColor=3B82F6)
@@ -64,43 +64,63 @@ Currently a **Data Science undergrad**, building production-grade ML and backend
 ![Mistral](https://img.shields.io/badge/Mistral_AI-0d1117?style=flat-square&logo=mistral&logoColor=3B82F6)
 ![Ollama](https://img.shields.io/badge/Ollama-0d1117?style=flat-square&logo=ollama&logoColor=3B82F6)
 
-**RAG & Vector Stores**
+---
+
+**RAG / Retrieval / Vector Search**
 
 ![Pinecone](https://img.shields.io/badge/Pinecone-0d1117?style=flat-square&logo=pinecone&logoColor=10B981)
 ![FAISS](https://img.shields.io/badge/FAISS-0d1117?style=flat-square&logo=meta&logoColor=10B981)
-![Chroma](https://img.shields.io/badge/Chroma-0d1117?style=flat-square&logo=python&logoColor=10B981)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-0d1117?style=flat-square&logo=python&logoColor=10B981)
 ![Weaviate](https://img.shields.io/badge/Weaviate-0d1117?style=flat-square&logo=weaviate&logoColor=10B981)
 ![Qdrant](https://img.shields.io/badge/Qdrant-0d1117?style=flat-square&logo=qdrant&logoColor=10B981)
 
-**ML & Computer Vision**
+---
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=F59E0B)
+**ML / Data / Intelligence**
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=F59E0B)
-![Keras](https://img.shields.io/badge/Keras-0d1117?style=flat-square&logo=keras&logoColor=F59E0B)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=F59E0B)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0d1117?style=flat-square&logo=scikit-learn&logoColor=F59E0B)
-![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=F59E0B)
 ![XGBoost](https://img.shields.io/badge/XGBoost-0d1117?style=flat-square&logo=python&logoColor=F59E0B)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=F59E0B)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=F59E0B)
+![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=F59E0B)
 
-**Backend & Data**
+---
 
+**Backend / APIs / Scalable Services**
+
+![Go](https://img.shields.io/badge/Go-0d1117?style=flat-square&logo=go&logoColor=EC4899)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=EC4899)
 ![Django](https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=EC4899)
 ![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=EC4899)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=EC4899)
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=EC4899)
-![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?style=flat-square&logo=streamlit&logoColor=EC4899)
 ![GraphQL](https://img.shields.io/badge/GraphQL-0d1117?style=flat-square&logo=graphql&logoColor=EC4899)
+![REST API](https://img.shields.io/badge/REST_APIs-0d1117?style=flat-square&logo=fastapi&logoColor=EC4899)
+![gRPC](https://img.shields.io/badge/gRPC-0d1117?style=flat-square&logo=googlecloud&logoColor=EC4899)
 
-**Infrastructure & Databases**
+---
 
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=94A3B8)
+**Distributed Systems / Infra / Reliability**
+
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=94A3B8)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=flat-square&logo=github-actions&logoColor=94A3B8)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=flat-square&logo=kubernetes&logoColor=94A3B8)
+![Redis](https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=94A3B8)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=94A3B8)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=94A3B8)
-![Redis](https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=94A3B8)
-![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=flat-square&logo=supabase&logoColor=94A3B8)
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=94A3B8)
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=94A3B8)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=flat-square&logo=github-actions&logoColor=94A3B8)
+
+---
+
+**Systems Engineering Concepts**
+
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-0d1117?style=flat-square&logo=apachekafka&logoColor=A78BFA)
+![Scalable Systems](https://img.shields.io/badge/Scalable_Systems-0d1117?style=flat-square&logo=icloud&logoColor=A78BFA)
+![Load Balancing](https://img.shields.io/badge/Load_Balancing-0d1117?style=flat-square&logo=nginx&logoColor=A78BFA)
+![Caching](https://img.shields.io/badge/Caching-0d1117?style=flat-square&logo=redis&logoColor=A78BFA)
+![Concurrency](https://img.shields.io/badge/Concurrency-0d1117?style=flat-square&logo=go&logoColor=A78BFA)
+![Microservices](https://img.shields.io/badge/Microservices-0d1117?style=flat-square&logo=docker&logoColor=A78BFA)
 
 ---
 <!--
