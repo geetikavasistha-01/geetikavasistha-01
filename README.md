@@ -27,20 +27,24 @@
 
 ### &nbsp;About
 
-I build systems where language models stop hallucinating and start doing things.
+I build reliable AI systems at the intersection of **Distributed Systems, Agentic AI, Safe Intelligence, and Climate-Focused Engineering**.
 
-My work sits at the intersection of **Agentic AI**, **RAG architecture**, and **climate-conscious engineering** — designing pipelines that retrieve accurately, reason reliably, and act autonomously.
+My focus is designing architectures where language models can **retrieve precisely, reason reliably, and act autonomously** — while remaining observable, scalable, and safe for real-world deployment.
 
-Currently a CS undergrad specialising in Data Science — shipping production ML systems across three internships with more than 1 year of experience as a fresher.
+I’m interested in solving infrastructure-heavy problems across **LLM systems, RAG pipelines, autonomous agents, distributed backend services, and climate-impact applications**.
 
-&nbsp;
+Currently a **Data Science undergrad**, building production-grade ML and backend systems through internships, deep engineering projects, and open-source work.
+
+---
 
 | | |
 |---|---|
-| **Currently** | Backend Dev Intern — Sacred Gurukul |
-| **Building** | LLM-powered recommendation engine + Django REST |
-| **Deep-diving** | LangGraph · Computer Use Agents · Hybrid Retrieval |
-| **Interested in** | Startups, research collabs, open-source AI |
+| **Currently** | Backend Development + ML Systems |
+| **Building** | Agentic AI systems · Distributed architectures · LLM-powered products |
+| **Deep-diving** | LangGraph · Retrieval Systems · AI Safety · System Design |
+| **Interested in** | Climate-tech · Safe Intelligence · Research collaborations |
+| **Exploring** | Multi-agent orchestration · Hybrid retrieval · Scalable infra |
+| **Goal** | Designing trustworthy AI systems for high-impact real-world use |
 
 
 <br clear="right"/>
