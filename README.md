@@ -61,7 +61,6 @@ Currently a **Data Science undergrad**, building production-grade ML and backend
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-0d1117?style=flat-square&logo=python&logoColor=3B82F6)
 ![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=flat-square&logo=openai&logoColor=3B82F6)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=flat-square&logo=huggingface&logoColor=3B82F6)
-![Mistral](https://img.shields.io/badge/Mistral_AI-0d1117?style=flat-square&logo=mistral&logoColor=3B82F6)
 ![Ollama](https://img.shields.io/badge/Ollama-0d1117?style=flat-square&logo=ollama&logoColor=3B82F6)
 
 ---
